@@ -1,4 +1,3 @@
-# sample
+# Python Programs
 
-This is the sample of using the repository 
-Trying to understand that how to use github
+In this I will keep the python programs
