@@ -1,0 +1,5 @@
+print("Enter the Value of A : ")
+input(a)
+print("Enter the Value of B : ")
+input(b)
+print("Addition of A and B is :" a+b)
